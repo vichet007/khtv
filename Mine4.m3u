@@ -1,0 +1,50 @@
+#EXTM3U
+
+#EXTINF:-1,Fresh News Test (720)
+http://167.99.65.12:1935/live/myStream/playlist.m3u8
+
+
+#EXTINF:-1,Hangmeas TV (1080)
+http://167.99.72.244:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunklist_w1924091134_b1800000_sleng.m3u8
+
+#EXTINF:-1,BTV (Bayon) (720)
+http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1674879746&mtvhash=xYP4xM2Ko6B4B6vpMsq2eE0dKLJEqIkFuo0PuQs-E7w=
+
+#EXTINF:-1,SEA TV (1080)
+https://seatv.netlinkbroadcaster.com/hls/test.m3u8
+
+#EXTINF:-1,Apsara TV (720)
+http://203.176.130.123:8989/live/apsaratv_480k.stream/chunklist_w105930912.m3u8
+
+#EXTINF:-1,TV5 (720)
+http://203.176.130.123:8989/live/tv5_480k.stream/chunklist_w108529579.m3u8
+
+#EXTINF:-1,Wiki TV 720
+http://206.189.93.160:1935/live/myStream_720p/chunklist_w799757422.m3u8?mtvstarttime=0&mtvendtime=1617055487&mtvhash=cSC5Aio8R-ofI74po1yvFdk-m88yuhZLBrkTkj4m7ns%3D
+
+#EXTINF:-1 tvg-id="CNA.sg" tvg-logo="https://i.imgur.com/awIDugE.png" group-title="News",CNA (1080p)
+http://198.16.64.10:8278/cna/playlist.m3u8?ct=19225&tid=MFAF1272681512726815&tsum=4d6a781648283b1bb018bc5c098432d0
+
+#EXTINF:-1 tvg-id="BloombergTVAsia.hk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Asia (576p)
+http://210.210.155.37/dr9445/h/h03/index.m3u8
+
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV (1080p) [Not 24/7]
+https://dai.google.com/linear/hls/event/NiumF4GTSGe-pXM-iMsP0A/master.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News",Al Jazeera English (1080p)
+https://hls.youtb.workers.dev/channel/UCNye-wNBqNL5ZzHSJj3l8Bg.m3u8
+
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW English (1080p)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-id="France24English.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",France 24 English (1080p)
+https://hls.youtb.workers.dev/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
+
+
+
+
+
+
+
+
+
