@@ -23,6 +23,8 @@ http://167.99.72.244:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunklist_w19240911
 http://206.189.93.160:1935/live/myStream_720p/chunklist_w799757422.m3u8?mtvstarttime=0&mtvendtime=1617055487&mtvhash=cSC5Aio8R-ofI74po1yvFdk-m88yuhZLBrkTkj4m7ns%3D
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Jazeera English (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News" tvg-shift="+7",Al Jazeera English (1080p)
 https://hls.youtb.workers.dev/channel/UCNye-wNBqNL5ZzHSJj3l8Bg.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News" tvg-shift="+7",Al Jazeera English (1080p)
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW English (1080p)" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News" tvg-shift="+7",DW English (1080p)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="France24English.us" tvg-name="France 24 English (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News" tvg-shift="+7",France 24 English (1080p)
