@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="Hangmeas TV (1080)" tvg-logo="https://logos.fandom.com/wiki/Hang_Meas_HDTV?file=HMHDTV.png" group-title="News" tvg-shift="+7",Hangmeas TV (1080)
 http://167.99.72.244:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunklist_w1924091134_b1800000_sleng.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-id="(no tvg-id)" tvg-name="Fresh News (720)" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Ffreshnewsasia%2F&psig=AOvVaw3bcpp1ZxkzQfPJXGQfSg-c&ust=1675401767744000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMCpuNeL9vwCFQAAAAAdAAAAABAE" group-title="News" tvg-shift="+7",Fresh News (720)
-https://rtmp24h.freshnewsasia.com/live/ngrp:myStream_all/chunklist_w1625969853_b1496608.m3u8
+https://rtmp24h.freshnewsasia.com/live/ngrp:myStream_all/media_w1599224447_b1496608_48106.ts
 #EXTINF:-1 tvg-chno="3" tvg-id="(no tvg-id)" tvg-name="BTV (Bayon) (720)" tvg-logo="https://logos.fandom.com/wiki/BTV_News_(Cambodia)?file=BTV_news.png" group-title="News" tvg-shift="+7",BTV (Bayon) (720)
 http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1674879746&mtvhash=xYP4xM2Ko6B4B6vpMsq2eE0dKLJEqIkFuo0PuQs-E7w=
 #EXTINF:-1 tvg-chno="6" tvg-id="(no tvg-id)" tvg-name="TV5 (720)" tvg-logo="" group-title="News" tvg-shift="+7",TV5 (720)
