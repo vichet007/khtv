@@ -19,7 +19,7 @@ https://live.kh.malimarcdn.com/live/tvk.stream/chunklist.m3u8
 http://198.16.64.10:8278/cna/playlist.m3u8?ct=19225&tid=MFAF1272681512726815&tsum=4d6a781648283b1bb018bc5c098432d0
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bloomberg TV (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="News" tvg-shift="+7",Bloomberg TV (1080p) [Not 24/7]
 https://dai.google.com/linear/hls/event/NiumF4GTSGe-pXM-iMsP0A/master.m3u8
-#EXTINF:-1 tvg-chno="9" tvg-id="(no tvg-id)" tvg-name="Test- FreshNews" tvg-logo="https://logos.fandom.com/wiki/Hang_Meas_HDTV?file=HMHDTV.png" group-title="News" tvg-shift="+7",Test- RHM
+#EXTINF:-1 tvg-chno="9" tvg-id="(no tvg-id)" tvg-name="Test- FreshNews" tvg-logo="https://logos.fandom.com/wiki/Hang_Meas_HDTV?file=HMHDTV.png" group-title="News" tvg-shift="+7", Fresh News Test
 https://streaming.freshnewsasia.com/live/ngrp:myStream_all/playlist.m3u8
 #EXTINF:-1 tvg-chno="7" tvg-id="(no tvg-id)" tvg-name="Wiki TV 720" tvg-logo="" group-title="News" tvg-shift="+7",Wiki TV 720
 http://206.189.93.160:1935/live/myStream_720p/chunklist_w799757422.m3u8?mtvstarttime=0&mtvendtime=1617055487&mtvhash=cSC5Aio8R-ofI74po1yvFdk-m88yuhZLBrkTkj4m7ns%3D
